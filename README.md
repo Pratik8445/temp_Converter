@@ -24,7 +24,7 @@ Beginner-friendly JavaScript logic
 
 🛠️ Technologies Used
 
-HTML5 – Structure of the webpage
+HTML5 – Structure of the webpages
 
 CSS3 – Styling and layout design
 
