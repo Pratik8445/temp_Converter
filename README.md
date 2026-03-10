@@ -14,7 +14,7 @@ Convert Kelvin → Celsius & Fahrenheit
 
 Instant conversion as you type
 
-Clean and responsive user interface
+Clean and responsive user interfaces
 
 Beginner-friendly JavaScript logic
 
