@@ -36,5 +36,6 @@ Temperature-Converter/
 ├── index.html      # Main HTML file
 ├── style.css       # Styling for the UI
 ├── script.js       # JavaScript conversion logic
-└── README.md       # Project documentation
+└── README.md       # Project
+documentation
 
