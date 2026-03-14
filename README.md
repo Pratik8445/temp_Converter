@@ -12,7 +12,7 @@ Convert Fahrenheit → Celsius & Kelvin
 
 Convert Kelvin → Celsius & Fahrenheit
 
-Instant conversion as you type
+Instant conversion as you types
 
 Clean and responsive user interfaces
 
