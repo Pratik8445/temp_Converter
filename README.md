@@ -22,7 +22,7 @@ Beginner-friendly JavaScript logic
 
 (Example UI of the Temperature Converter)
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 
 HTML5 – Structure of the webpages
 
