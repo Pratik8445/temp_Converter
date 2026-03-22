@@ -2,7 +2,7 @@ Temperature Converter
 
 A simple and interactive Temperature Converter Web App that allow users to convert temperature values between Celsius (°C), Fahrenheit (°F), and Kelvin (K) instantly.
 
-This project is built using HTML, CSS, and JavaScript, and provides a clean UI for quick temperature conversions.
+This project is built using HTML, CSS, and JavaScript, and provides a clean UI for quick temperature conversion
 
 🚀 Features
 
