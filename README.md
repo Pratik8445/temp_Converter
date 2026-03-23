@@ -30,7 +30,7 @@ CSS3 – Styling and layout design
 
 JavaScript – Temperature conversion logic
 
-📂 Project Structure
+📂 Project Structures
 Temperature-Converter/
 │
 ├── index.html      # Main HTML file
