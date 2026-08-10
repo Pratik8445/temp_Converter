@@ -4,7 +4,7 @@ A simple and interactive Temperature Converter Web App that allow users to conve
 
 This project is built using HTML, CSS, and JavaScript, and provides a clean UI for quick temperature conversion
 
-🚀 Features
+Features
 
 Convert Celsius → Fahrenheit & Kelvin
 
